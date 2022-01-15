@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">MainActivity</string>
+    <string name="COMMANDER_IT">COMMANDER VIA INTERNET</string>
+    <string name="SCANNER">SCANNER LES PÉRIPHÉRIQUES</string>
+    <string name="TOGGLE">TOGGLE LED</string>
+    <string name="SCAN">LANCER LE SCAN</string>
+    <string name="DECO">DÉCONNEXION</string>
+    <string name="ConnectXXX">Connecté à XXXXXXX</string>
+    <string name="ETAT_LED">CHANGER LÉTAT</string>
+    <string name="scan_ended">Scan effectué</string>
+    <string name="uuid_not_found">uuid not found</string>
+    <string name="not_connected">not connected</string>
+    <string name="connected_to">connected_to</string>
+    <string name="trying_connection_to">trying_connection_to</string>
+    <string name="not_compatible">not_compatible</string>
+    <string name="enable_ble_notifications">enable_ble_notifications</string>
+    <string name="recharge">RECHARGE</string>
+</resources>
